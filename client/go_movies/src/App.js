@@ -1,4 +1,5 @@
 import './App.css';
+//Hard coded data for level 0
 const movies = [
   {title: 'Mean Girls'},
   {title: 'Hackers'},
